@@ -56,11 +56,18 @@ export const projectsData = [
     github: 'https://github.com/IvanAugustoAlarcon/pokedex'
   },
   {
-    id: 6,
+    id: 7,
     image: Backend,
     title: 'Graphic Novels API',
     category: 'backend',
     github: 'https://github.com/IvanAugustoAlarcon/API-graphic-novels'
+  },
+  {
+    id: 8,
+    image: Backend,
+    title: 'Fake Store API',
+    category: 'backend',
+    github: 'https://github.com/IvanAugustoAlarcon/API-Store'
   }
 ]
 

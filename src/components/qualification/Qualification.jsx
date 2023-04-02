@@ -79,7 +79,7 @@ const Qualification = () => {
                   Softtek - Mexico
                 </span>
                 <div className='qualification__calendar'>
-                  <i className='uil uil-calendar-alt' />2021 - 2021
+                  <i className='uil uil-calendar-alt' />2021
                 </div>
               </div>
             </div>

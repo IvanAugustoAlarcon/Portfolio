@@ -19,14 +19,14 @@ const Footer = () => {
 
         <div className='footer__social'>
           <a href='https://github.com/IvanAugustoAlarcon' className='footer__social-link' target='_blanck'>
-            <i class='bx bxl-github' />
+            <i className='bx bxl-github' />
           </a>
 
           <a href='https://www.linkedin.com/in/ivan-augusto-alarcon-herrera-b5b76b122/' className='footer__social-link' target='_blanck'>
-            <i class='bx bxl-linkedin' />
+            <i className='bx bxl-linkedin' />
           </a>
         </div>
-        <span className='footer__copy'>&#169; Crypticalcoder. All rights reserved</span>
+        <span className='footer__copy'>&#169; All rights reserved</span>
       </div>
     </footer>
   )
