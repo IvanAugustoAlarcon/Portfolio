@@ -167,7 +167,7 @@
   }
   
   /* For small devices */
-  @media screen and (max-width: 350px) {
+  @media screen and (max-width: 400px) {
     .home__img {
         width: 180px;
         height: 180px;
@@ -176,6 +176,11 @@
     .home__hand {
         width: 22px;
         height: 22px;
+    }
+     
+    .home__button {
+        display: flex;
+        justify-content: center;
     }
 
   }
