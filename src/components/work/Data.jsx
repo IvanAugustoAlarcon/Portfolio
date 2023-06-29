@@ -5,6 +5,7 @@ import Work4 from '../../assets/quiz.jpg'
 import Work5 from '../../assets/cocktails.jpg'
 import Work6 from '../../assets/pokedex.jpg'
 import Backend from '../../assets/backend.jpg'
+import Work7 from '../../assets/oura.jpg'
 
 export const projectsData = [
   {
@@ -68,6 +69,13 @@ export const projectsData = [
     title: 'Fake Store API',
     category: 'backend',
     github: 'https://github.com/IvanAugustoAlarcon/API-Store'
+  },
+  {
+    id: 9,
+    image: Work7,
+    title: 'Netflix clone',
+    category: 'full-stack',
+    github: 'https://golden-peony-493b0c.netlify.app/'
   }
 ]
 
@@ -83,5 +91,8 @@ export const projectsNav = [
   },
   {
     name: 'backend'
+  },
+  {
+    name: 'full-stack'
   }
 ]
