@@ -75,7 +75,8 @@ export const projectsData = [
     image: Work7,
     title: 'Netflix clone',
     category: 'full-stack',
-    github: 'https://golden-peony-493b0c.netlify.app/'
+    demo: 'https://golden-peony-493b0c.netlify.app/login',
+    github: 'https://github.com/IvanAugustoAlarcon/Oura-Movie-app'
   }
 ]
 
