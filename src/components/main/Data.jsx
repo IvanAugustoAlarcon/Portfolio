@@ -7,7 +7,7 @@ const Data = () => {
       <h1 className='home__title'>
         Ivan Alarcon
       </h1>
-      <h3 className='home__subtitle'>Frontend Developer</h3>
+      <h3 className='home__subtitle'>Software Engineer</h3>
       <div className='home__button'>
         <a download='' href={CV} className='button button--flex'>
           Download CV
